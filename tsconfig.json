@@ -5,6 +5,9 @@
       "outDir": "./dist",
       "strict": true,
       "esModuleInterop": true
-    }
+    }, 
+    "include": [
+        "./api/*"
+    ]
   }
   
